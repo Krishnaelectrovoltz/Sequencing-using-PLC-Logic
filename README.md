@@ -10,6 +10,9 @@ This repository provides examples and tutorials on implementing sequencing logic
 - **Real-World Applications**: Explore real-world use cases like traffic light control, conveyor systems, and batch processing.
 - **Best Practices**: Tips and techniques for optimizing sequencing logic for efficiency and reliability.
 
+https://github.com/user-attachments/assets/ba273af5-4257-4362-a91b-27e037305397
+
+
 ## Getting Started
 
 1. **Clone the Repository (If you want the images and video provided)**: 
