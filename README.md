@@ -11,6 +11,7 @@ This repository provides examples and tutorials on implementing sequencing logic
 - **Best Practices**: Tips and techniques for optimizing sequencing logic for efficiency and reliability.
 
 https://github.com/user-attachments/assets/ba273af5-4257-4362-a91b-27e037305397
+
 ![counters_page-0001](https://github.com/user-attachments/assets/817f3ae0-355d-45a7-a2b3-a7f7355027be)
 
 
