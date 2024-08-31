@@ -14,6 +14,8 @@ https://github.com/user-attachments/assets/ba273af5-4257-4362-a91b-27e037305397
 
 ![counters_page-0001](https://github.com/user-attachments/assets/817f3ae0-355d-45a7-a2b3-a7f7355027be)
 
+![counters_page-0002](https://github.com/user-attachments/assets/96311564-7c58-4ef2-b212-5e5caa24ee12)
+
 
 
 ## Getting Started
