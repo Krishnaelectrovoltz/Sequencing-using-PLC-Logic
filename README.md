@@ -12,19 +12,12 @@ This repository provides examples and tutorials on implementing sequencing logic
 
 ## Getting Started
 
-1. **Clone the Repository**: 
+1. **Clone the Repository (If you want the images and video provided)**: 
    ```
    git clone https://github.com/Krishnaelectrovoltz/Sequencing-using-PLC-Logic
    ```
 2. **Open the Project**: Use your preferred PLC development environment (e.g., TIA Portal, Studio 5000) to open the project files.
 3. **Follow the Tutorials**: Navigate to the `tutorials` folder and follow the instructions to set up, program, and simulate sequencing logic.
-
-## Folder Structure
-
-- `examples/`: Contains sample PLC programs for various sequencing scenarios.
-- `tutorials/`: Step-by-step guides for beginners and advanced users.
-- `docs/`: Additional documentation and resources.
-- `simulation_files/`: Files for PLC simulation and testing.
 
 ## Contributing
 
