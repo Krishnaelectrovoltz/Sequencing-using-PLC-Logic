@@ -29,8 +29,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please reach out to [your.email@example.com](mailto:dandenzonga.com).
+For any questions or feedback, please reach out to [dandenzonga@gmail.com](mailto:dandenzonga.com).
 
 ---
-
-Feel free to customize this template to fit your specific needs and project details!
