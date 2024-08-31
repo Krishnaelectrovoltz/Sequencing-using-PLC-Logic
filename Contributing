@@ -1,1 +1,79 @@
+Here are some contribution guidelines that you can include in a `CONTRIBUTING.md` file for your GitHub repository on "Sequencing using PLC Logic":
+
+---
+
+# Contributing to Sequencing using PLC Logic
+
+Thank you for considering contributing to the "Sequencing using PLC Logic" project! Your contributions help improve the repository and make it a valuable resource for the PLC and automation community. This document outlines the guidelines for contributing to this project.
+
+## How to Contribute
+
+### 1. Reporting Bugs
+
+If you find a bug or an issue with the existing code, documentation, or examples, please create a new issue in the repository. When reporting a bug, please include:
+
+- A clear and descriptive title.
+- A detailed description of the issue.
+- Steps to reproduce the issue, if applicable.
+- Any relevant screenshots, error messages, or code snippets.
+
+### 2. Suggesting Enhancements
+
+If you have an idea for a new feature or enhancement, feel free to suggest it by creating a new issue. Please provide:
+
+- A clear and descriptive title.
+- A detailed explanation of the proposed enhancement.
+- The benefits and use cases of the proposed feature.
+
+### 3. Adding New Examples or Tutorials
+
+We welcome new examples, tutorials, and use cases related to PLC sequencing logic. To add a new example or tutorial:
+
+1. **Fork the Repository**: Click the "Fork" button on the top right of the repository page.
+2. **Create a New Branch**: 
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. **Add Your Example/Tutorial**: 
+   - Place new example files in the `examples/` directory.
+   - Place new tutorials in the `tutorials/` directory.
+   - Include comments in your code to explain key parts.
+   - Provide a README file in the new example/tutorial directory explaining what it does and how to use it.
+4. **Commit Your Changes**: 
+   ```bash
+   git commit -m "Add new example/tutorial: [brief description]"
+   ```
+5. **Push to Your Fork**: 
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+6. **Submit a Pull Request**: Open a pull request to the `main` branch of the repository. Provide a detailed description of your changes and the purpose of the new example or tutorial.
+
+### 4. Improving Documentation
+
+We aim to keep our documentation clear and helpful. If you find any part of the documentation that can be improved, please:
+
+- Fork the repository and make the necessary changes.
+- Commit and push your changes to your fork.
+- Open a pull request with a description of your documentation improvements.
+
+## Code Style and Quality
+
+- Ensure your code is clean, well-commented, and follows consistent coding practices.
+- Use descriptive names for variables, functions, and files.
+- Test your code thoroughly before submitting.
+
+## Code of Conduct
+
+By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md). Please ensure that your interactions are respectful and constructive.
+
+## License
+
+By contributing, you agree that your contributions will be licensed under the MIT License, as specified in the repository.
+
+## Questions?
+
+If you have any questions or need further assistance, feel free to open an issue or contact the repository maintainers directly.
+
+Thank you for contributing to the "Sequencing using PLC Logic" project!
 
