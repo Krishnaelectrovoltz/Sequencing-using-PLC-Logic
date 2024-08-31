@@ -1,9 +1,4 @@
 # Sequencing-using-PLC-Logic
-Certainly! Here's a detailed description for a README file for your project on "Sequencing using PLC Logic":
-
----
-
-# Sequencing using PLC Logic
 
 This repository provides examples and tutorials on implementing sequencing logic using Programmable Logic Controllers (PLCs). Sequencing is crucial in automation systems where a series of actions must occur in a specific order. This project focuses on creating, simulating, and optimizing various sequencing scenarios with PLC programming.
 
@@ -19,7 +14,7 @@ This repository provides examples and tutorials on implementing sequencing logic
 
 1. **Clone the Repository**: 
    ```
-   git clone https://github.com/yourusername/sequencing-using-plc-logic.git
+   git clone https://github.com/Krishnaelectrovoltz/Sequencing-using-PLC-Logic
    ```
 2. **Open the Project**: Use your preferred PLC development environment (e.g., TIA Portal, Studio 5000) to open the project files.
 3. **Follow the Tutorials**: Navigate to the `tutorials` folder and follow the instructions to set up, program, and simulate sequencing logic.
