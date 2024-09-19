@@ -1,4 +1,4 @@
-# Sequencing-using-PLC-Logic
+# Sequencing-using-PLC-Logic 
 
 This repository provides examples and tutorials on implementing sequencing logic using Programmable Logic Controllers (PLCs). Sequencing is crucial in automation systems where a series of actions must occur in a specific order. This project focuses on creating, simulating, and optimizing various sequencing scenarios with PLC programming.
  
