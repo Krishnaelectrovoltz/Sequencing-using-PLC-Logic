@@ -3,7 +3,7 @@
 This repository provides examples and tutorials on implementing sequencing logic using Programmable Logic Controllers (PLCs). Sequencing is crucial in automation systems where a series of actions must occur in a specific order. This project focuses on creating, simulating, and optimizing various sequencing scenarios with PLC programming.
  
 ## Overview   
-
+ 
 - **Sequencing Logic Basics**: Learn the fundamentals of sequencing logic and how it's applied in different automation scenarios.
 - **PLC Programming Languages**: Examples provided in Ladder Logic, Function Block Diagram (FBD), and Structured Text (ST).
 - **Simulation and Testing**: Step-by-step guides to simulate and test PLC logic using popular tools like Siemens TIA Portal and Allen-Bradley Studio 5000.
